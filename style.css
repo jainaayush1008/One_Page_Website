@@ -1,0 +1,38 @@
+.navbar-nav
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+#grad
+{
+    background-image: linear-gradient(purple,cyan);
+    padding: 40px;
+    border-radius: 20px;
+}
+body
+{
+    background-color:whitesmoke
+}
+.card-deck
+{
+    padding: 30px;
+}
+#div2
+{
+    background-color: whitesmoke;
+}
+.content
+{
+    justify-content: center;
+    display: flex;
+}
+.content2
+{
+    justify-content: center;
+    display: flex;
+}
+.card
+{
+    box-shadow: 2px 2px 2px grey;
+}
